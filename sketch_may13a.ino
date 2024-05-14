@@ -97,7 +97,7 @@
 //   pinMode(27,INPUT);
 //   pinMode(25,INPUT);
 
-//   BLEDevice::init("stefaan-sterzo");
+//   BLEDevice::init("liam-sterzo");
 //   BLEServer *pServer = BLEDevice::createServer();
 //   pServer->setCallbacks(new MyServerCallbacks());
 //   BLEService *pSvcSterzo = pServer->createService("347b0001-7635-408b-8918-8ff3949ce592");
